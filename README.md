@@ -1,10 +1,10 @@
-﻿# waf-bypass
+# waf-bypass
 
 > Red team security tool for authorized testing only.
 
 ## Usage
 
-`ash
+```bash
 python waf_bypass.py --help
 ```
 
